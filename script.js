@@ -62,7 +62,7 @@ const wone=(msg,ms)=>{
     start.style.color="antiquewhite";
     start.style.fontSize="1rem";
     start.style.height="10vh";
-    start.style.width="20vw";
+    start.style.width="200px";
     start.style.backgroundColor="#470101";
     start.style.borderRadius="2rem"; 
     start.innerText="START NEW GAME";
